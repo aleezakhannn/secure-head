@@ -24,7 +24,3 @@ pip install -r requirements.txt
 python app.py
 ```
 then open 127.0.0.1:5000 in your browser.
-
-cd secure-head
-pip install -r requirements.txt
-python app.py
