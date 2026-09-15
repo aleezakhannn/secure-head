@@ -16,6 +16,9 @@ Python + Flask for the backend, Tailwind for styling. Along the way I also added
 ## Why I built it
 I'm a CS student, and this is my first real project outside of coursework. No projects, no experience going in — just decided to actually build something instead of watching more tutorials. Hit a bunch of bugs along the way (shoutout to the 'UnboundLocalError' that took way longer to fix than it should've), but it works now.
 
+## Try it
+Live on: https://secure-head.onrender.com
+
 ## Running it yourself
 ```bash
 git clone https://github.com/aleezakhannn/secure-head.git
